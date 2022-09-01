@@ -115,7 +115,7 @@
 <pin name="INLA" x="-10.16" y="-2.54" visible="pin" length="short"/>
 <pin name="INLC" x="-10.16" y="-7.62" visible="pin" length="short"/>
 <pin name="INLB" x="-10.16" y="-5.08" visible="pin" length="short"/>
-<pin name="GHA" x="12.7" y="5.08" length="short" rot="R180"/>
+<pin name="GHA" x="12.7" y="5.08" visible="pin" length="short" rot="R180"/>
 <pin name="GHB" x="12.7" y="2.54" visible="pin" length="short" rot="R180"/>
 <pin name="GHC" x="12.7" y="0" visible="pin" length="short" rot="R180"/>
 <pin name="GLA" x="12.7" y="-5.08" visible="pin" length="short" rot="R180"/>
@@ -126,13 +126,13 @@
 <pin name="SHC" x="2.54" y="-22.86" visible="pin" length="short" rot="R90"/>
 <pin name="GVDD" x="-10.16" y="20.32" visible="pin" length="short" direction="pwr"/>
 <pin name="BSTA" x="12.7" y="15.24" visible="pin" length="short" rot="R180"/>
-<pin name="BSTB" x="12.7" y="12.7" length="short" rot="R180"/>
-<pin name="BSTC" x="12.7" y="10.16" length="short" rot="R180"/>
+<pin name="BSTB" x="12.7" y="12.7" visible="pin" length="short" rot="R180"/>
+<pin name="BSTC" x="12.7" y="10.16" visible="pin" length="short" rot="R180"/>
 <pin name="DT" x="-10.16" y="12.7" visible="pin" length="short"/>
 <pin name="GND" x="-10.16" y="-10.16" visible="pin" length="short" direction="pwr"/>
 <pin name="NC1" x="7.62" y="-22.86" visible="pin" length="short" rot="R90"/>
 <pin name="NC2" x="5.08" y="-22.86" visible="pin" length="short" rot="R90"/>
-<pin name="MODE" x="-10.16" y="15.24" length="short"/>
+<pin name="MODE" x="-10.16" y="15.24" visible="pin" length="short"/>
 <wire x1="-7.62" y1="25.4" x2="-7.62" y2="-20.32" width="0.254" layer="94"/>
 <wire x1="-7.62" y1="-20.32" x2="10.16" y2="-20.32" width="0.254" layer="94"/>
 <wire x1="10.16" y1="-20.32" x2="10.16" y2="25.4" width="0.254" layer="94"/>
